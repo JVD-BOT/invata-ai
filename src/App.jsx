@@ -13,7 +13,7 @@ const TOOLS = [
 
 const VIDEOS = [
   { title: "Ce este Inteligența Artificială? Explicat simplu", ytId: "ad79nYk2keg", lang: "RO", cat: "Introducere", desc: "O introducere clară în lumea AI — ce este, cum funcționează și de ce contează." },
-  { title: "ChatGPT Tutorial Complet pentru Începători", ytId: "JTxsNm9IdYU"h, lang: "EN", cat: "Tutorial", desc: "Ghid pas cu pas pentru a folosi ChatGPT eficient — de la creare cont la prompturi avansate." },
+  { title: "ChatGPT Tutorial Complet pentru Începători", ytId: "JTxsNm9IdYU", lang: "EN", cat: "Tutorial", desc: "Ghid pas cu pas pentru a folosi ChatGPT eficient — de la creare cont la prompturi avansate." },
   { title: "AI în 100 de Secunde", ytId: "PeMlggyqz0Y", lang: "EN", cat: "Introducere", desc: "Explicație rapidă și captivantă despre ce este inteligența artificială — de la Fireship." },
   { title: "Cum să folosești Midjourney — Ghid Complet", ytId: "xoZG5WQbgMw", lang: "EN", cat: "Imagini AI", desc: "Tutorial complet pentru generarea de imagini cu Midjourney — de la prompts la setări avansate." },
   { title: "10 Instrumente AI Care Îți Schimbă Viața", ytId: "LSKZrtFl47c", lang: "EN", cat: "Instrumente", desc: "Top 10 instrumente AI gratuite care te fac mai productiv în fiecare zi." },
